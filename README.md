@@ -29,7 +29,7 @@
 ### Girl Relationship System
 
 * Dialogue-based interactions offering emotional connection and comfort.
-* Spending excessive time with her reduces combat efficiency and slows progression.
+* Spending excessive time with her reduces combat efficiency and slows progression but npc help increases and shops give more offers.
 * Represents **normalcy, social approval, and distraction from personal growth**.
 * Should never be portrayed as a villain; her intentions are genuine, but her path conflicts with the rider’s.
 
