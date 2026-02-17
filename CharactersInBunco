@@ -1,83 +1,112 @@
-# Archie Lillingston - Character File
-# Lonesome Trail (Working Title)
-# Created: February 17, 2026
-# Author: Dale Salvador
+# Archie Lillingston – Character File
 
-character:
-  name: Archie Lillingston
-  aliases:
-    - Archibald Lillingston
-    - "The Quiet Broker"
-  role: Central Quest Giver / Merchant / Arms Dealer
-  occupation:
-    primary: Bartender
-    secondary: Arms Dealer
-  family:
-    status: Wealthy, influential in Bunco City alcohol industry
-    history: Family controls supply and distribution across Bunco and nearby towns; lineage emphasizes power and control
-  personality:
-    traits:
-      - Calm
-      - Rarely reactive
-      - Patient
-      - Calculating
-      - Observant
-      - Adaptive
-    demeanor: Neutral, business-like; avoids emotional displays; evaluates people and situations for utility
-    philosophy: Control is everything; whether through peace or violence, Archie ensures influence is maintained
-  narrative_role:
-    overview: >
-      Central figure in Bunco City. All major quests pass through him. He adapts offers to the player's moral path:
-        - Rider (violent) path: Offers secondary “arms dealing” shop, violent expansion quests
-        - Domestic (peaceful) path: Provides bar job, safer quests, no access to weapons or expansion
-      Manipulates indirectly; never overtly antagonistic, but constantly facilitates the player's ambitions
-    influence:
-      - Player autonomy: Adapts to choices, keeps player within his system
-      - World-building: Family wealth shapes city economy and social structure
-      - Moral tension: Embodies consequences of power without judgment; calm neutrality highlights player’s internal conflict
-  quest_mechanics:
-    rider_path:
-      - name: "Expansion Contract"
-        description: Player eliminates obstacles to establish a new bar in a rival town
-        reward: Access to weapons, resources, and the "Second Shop"
-        conditions: Player pursues violence and outlaw status
-    domestic_path:
-      - name: "Bar Assistant"
-        description: Player manages bar operations, supplies, and builds local relationships
-        reward: Safe income, minor story influence, no access to weapons
-        conditions: Player chooses domestic/love-oriented path
-    second_shop:
-      description: Unlockable only on Rider path; arms dealer network activated
-      location: Hidden area behind the bar
-      tone: Cold, business-like; usefulness only, no morality discussed
-      inventory: Weapons, explosives, specialized gear
-  appearance:
-    description: Well-dressed but unassuming; always composed; bar reflects personality—tidy, immaculate
-    typical_clothing:
-      - Waistcoat
-      - Shirt with rolled sleeves
-      - Sturdy boots
-      - Minimal accessories
-  relationships:
-    player:
-      type: Manipulative facilitator
-      notes: Adapts quests to player choices; maintains calm neutrality
-    girl_character:
-      type: Observant
-      notes: Cautious of Archie’s control; senses his influence instinctively
-    Father Rufus Mutz:
-      type: Indirect ally/contrast
-      notes: Interacts strategically; respects authority when beneficial
-    Sheriff George Storen:
-      type: Strategic relationship
-      notes: Uses bribes or influence to remove obstacles; expands alcohol influence
-  dialogue_style:
-    tone: Neutral, measured, business-oriented
-    examples:
-      - "There's a man blocking opportunity. I’d appreciate it if that obstacle were removed."
-      - "Your path seems set. I can assist accordingly."
-      - "Whether you choose peace or chaos, Bunco has room for you. Just know I always see the bigger picture."
-  notes:
-    - Never overtly judges morality; reacts only to usefulness
-    - Player perception changes based on choices, behavior remains constant
-    - Bar decor and ledgers contain optional lore hints of empire-building and long-term planning
+**Project:** Lonesome Trail (Working Title)
+**Created:** February 17, 2026
+**Author:** Dale Salvador
+
+---
+
+## Overview
+
+Archie Lillingston, also known as **Archibald Lillingston** or *“The Quiet Broker”*, is the central quest giver and merchant in Bunco City. He is calm, calculating, and always evaluates situations for usefulness. Archie operates a bar publicly, while secretly running an arms dealing network.
+
+He adapts quests and offers depending on the player’s moral choices, subtly guiding their path without overt judgment.
+
+---
+
+## Role & Occupation
+
+* **Primary Role:** Bartender (public)
+* **Secondary Role:** Arms Dealer (hidden)
+* **Narrative Function:**
+
+  * Facilitates all major player quests
+  * Maintains influence over city events and economy
+  * Acts as a moral-neutral force; consequences of power are reflected through his operations
+
+---
+
+## Family Background
+
+* Wealthy and influential in Bunco City’s alcohol industry
+* Family controls supply and distribution across the city and nearby towns
+* Lineage emphasizes strategic control and accumulation of power
+
+---
+
+## Personality & Demeanor
+
+* **Traits:** Calm, patient, calculating, observant, adaptive, rarely reactive
+* **Demeanor:** Speaks in neutral, business-like tones; avoids emotional displays
+* **Philosophy:** Control above all; whether through peace or violence, he ensures his influence persists
+
+---
+
+## Appearance
+
+* Well-dressed but unassuming
+* Always composed; shows little emotion
+* Bar reflects his personality: tidy, almost immaculate
+
+**Typical Clothing:**
+
+* Waistcoat
+* Shirt with rolled sleeves
+* Sturdy boots
+* Minimal accessories
+
+---
+
+## Dialogue Style
+
+* Neutral, measured, business-oriented
+* **Examples:**
+
+  * “There’s a man blocking opportunity. I’d appreciate it if that obstacle were removed.”
+  * “Your path seems set. I can assist accordingly.”
+  * “Whether you choose peace or chaos, Bunco has room for you. Just know I always see the bigger picture.”
+
+---
+
+## Quest Mechanics
+
+### Rider Path (Violent)
+
+* **Quest:** Expansion Contract
+
+  * **Description:** Player eliminates obstacles to establish a new bar in a rival town
+  * **Reward:** Access to weapons, resources, and the hidden "Second Shop"
+  * **Conditions:** Player pursues violence and outlaw status
+
+### Domestic Path (Peaceful)
+
+* **Quest:** Bar Assistant
+
+  * **Description:** Player manages bar operations, supplies, and builds local relationships
+  * **Reward:** Safe income, minor story influence, no access to weapons
+  * **Conditions:** Player chooses domestic/love-oriented path
+
+### Second Shop (Unlockable)
+
+* **Description:** Arms dealer network activated; only accessible on Rider path
+* **Location:** Hidden area behind the bar
+* **Tone:** Cold, business-like; usefulness only, no morality discussed
+* **Inventory:** Weapons, explosives, specialized gear
+
+---
+
+## Relationships
+
+* **Player:** Manipulative facilitator; adapts quests to player choices
+* **Girl Character:** Observant; senses Archie’s influence instinctively
+* **Father Rufus Mutz:** Indirect ally/contrast; interacts strategically, respects authority when beneficial
+* **Sheriff George Storen:** Strategic relationship; uses bribes or influence to remove obstacles and expand influence
+
+---
+
+## Notes
+
+* Never overtly judges morality; reacts only to usefulness
+* Player perception changes based on choices; behavior remains constant
+* Bar decor and ledgers contain optional lore hints of empire-building and long-term planning
+
