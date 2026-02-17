@@ -10,11 +10,11 @@ character:
     - "The Quiet Broker"
   role: Central Quest Giver / Merchant / Arms Dealer
   occupation:
-    - Bartender (primary public role)
-    - Arms Dealer (secondary hidden role)
+    primary: Bartender
+    secondary: Arms Dealer
   family:
     status: Wealthy, influential in Bunco City alcohol industry
-    history: Family controls supply and distribution across Bunco and nearby towns; lineage emphasizes power and control.
+    history: Family controls supply and distribution across Bunco and nearby towns; lineage emphasizes power and control
   personality:
     traits:
       - Calm
@@ -23,36 +23,36 @@ character:
       - Calculating
       - Observant
       - Adaptive
-    demeanor: Speaks in neutral, business-like tones; avoids emotional displays; evaluates people and situations for utility.
-    philosophy: Control is everything; whether through peace or violence, Archie ensures he maintains influence.
+    demeanor: Neutral, business-like; avoids emotional displays; evaluates people and situations for utility
+    philosophy: Control is everything; whether through peace or violence, Archie ensures influence is maintained
   narrative_role:
-    overview: |
-      Central figure in Bunco City. All major quests pass through him. He adapts his offers to the player's moral path:
-        - Rider (violent) path: Offers secondary “arms dealing” shop, violent expansion quests.
-        - Domestic (peaceful) path: Provides bar job, safer quests, no access to weapons or expansion.
-      Archie manipulates indirectly. He is never an overt antagonist but a constant facilitator of the player's ambitions.
+    overview: >
+      Central figure in Bunco City. All major quests pass through him. He adapts offers to the player's moral path:
+        - Rider (violent) path: Offers secondary “arms dealing” shop, violent expansion quests
+        - Domestic (peaceful) path: Provides bar job, safer quests, no access to weapons or expansion
+      Manipulates indirectly; never overtly antagonistic, but constantly facilitates the player's ambitions
     influence:
-      - Player autonomy: He adapts to choices but ensures the player remains within his system.
-      - World-building: His family wealth and control shape Bunco City’s economy and social structure.
-      - Moral tension: He embodies the consequences of power without judgment; his calm neutrality emphasizes the player’s internal conflict.
+      - Player autonomy: Adapts to choices, keeps player within his system
+      - World-building: Family wealth shapes city economy and social structure
+      - Moral tension: Embodies consequences of power without judgment; calm neutrality highlights player’s internal conflict
   quest_mechanics:
     rider_path:
-      - Name: "Expansion Contract"
-        Description: Player is tasked with eliminating obstacles to establish a new bar in a rival town.
-        Reward: Access to weapons, resources, and the "Second Shop."
-        Conditions: Player actively pursues violence and outlaw status.
+      - name: "Expansion Contract"
+        description: Player eliminates obstacles to establish a new bar in a rival town
+        reward: Access to weapons, resources, and the "Second Shop"
+        conditions: Player pursues violence and outlaw status
     domestic_path:
-      - Name: "Bar Assistant"
-        Description: Player helps in the bar, manages supplies, and builds local relationships.
-        Reward: Safe income, minor story influence, no access to weapons.
-        Conditions: Player chooses domestic/love-oriented path.
+      - name: "Bar Assistant"
+        description: Player manages bar operations, supplies, and builds local relationships
+        reward: Safe income, minor story influence, no access to weapons
+        conditions: Player chooses domestic/love-oriented path
     second_shop:
-      Description: Unlockable only on Rider path; arms dealer network activated. Player can purchase weapons, explosives, and specialized gear.
-      Location: Hidden area behind the bar.
-      Tone: Cold, business-like. No morality discussed. Archie evaluates usefulness only.
+      description: Unlockable only on Rider path; arms dealer network activated
+      location: Hidden area behind the bar
+      tone: Cold, business-like; usefulness only, no morality discussed
+      inventory: Weapons, explosives, specialized gear
   appearance:
-    description: |
-      Well-dressed but unassuming. Always composed, rarely showing emotion. Bar is tidy, almost immaculate, reflecting his personality.
+    description: Well-dressed but unassuming; always composed; bar reflects personality—tidy, immaculate
     typical_clothing:
       - Waistcoat
       - Shirt with rolled sleeves
@@ -60,17 +60,17 @@ character:
       - Minimal accessories
   relationships:
     player:
-      - Type: Manipulative facilitator
-      - Notes: Adapts offers and quests to align with player choices; always maintains calm neutrality.
+      type: Manipulative facilitator
+      notes: Adapts quests to player choices; maintains calm neutrality
     girl_character:
-      - Type: Observant
-      - Notes: Senses his control instinctively; cautious of his influence.
+      type: Observant
+      notes: Cautious of Archie’s control; senses his influence instinctively
     Father Rufus Mutz:
-      - Type: Indirect ally/contrast
-      - Notes: Archie interacts for influence but avoids moral conflict; respects Father Rufus’ authority when beneficial.
+      type: Indirect ally/contrast
+      notes: Interacts strategically; respects authority when beneficial
     Sheriff George Storen:
-      - Type: Strategic relationship
-      - Notes: Bribes or influences when necessary; removes obstacles to expand his bar/alcohol influence.
+      type: Strategic relationship
+      notes: Uses bribes or influence to remove obstacles; expands alcohol influence
   dialogue_style:
     tone: Neutral, measured, business-oriented
     examples:
@@ -78,7 +78,6 @@ character:
       - "Your path seems set. I can assist accordingly."
       - "Whether you choose peace or chaos, Bunco has room for you. Just know I always see the bigger picture."
   notes:
-    - Archie never overtly judges morality; he reacts only to usefulness.
-    - Player perception of him changes based on choices, but his behavior remains constant.
-    - Optional lore hints can be included in the bar’s decor and ledgers, showing his long-term planning and empire-building.
-
+    - Never overtly judges morality; reacts only to usefulness
+    - Player perception changes based on choices, behavior remains constant
+    - Bar decor and ledgers contain optional lore hints of empire-building and long-term planning
