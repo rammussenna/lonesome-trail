@@ -110,3 +110,113 @@ He adapts quests and offers depending on the player’s moral choices, subtly gu
 * Player perception changes based on choices; behavior remains constant
 * Bar decor and ledgers contain optional lore hints of empire-building and long-term planning
 
+# Father Rufus Mutz - Character File
+**Game:** Lonesome Trail (Working Title)  
+**Created:** February 17, 2026  
+**Author:** Dale Salvador  
+
+---
+
+## Basic Information
+
+- **Name:** Father Rufus Mutz  
+- **Aliases:** “The Redeemed,” “Pastor of Bunco”  
+- **Role:** Local Priest / Moral Guide / Optional Quest Giver  
+- **Occupation:** Priest at Bunco City Church  
+- **Backstory:**  
+  Rufus was once a wanted man, convicted for serious crimes in his youth. Sentenced to death, he was spared by a family who gave him a chance at redemption. From that moment, he devoted his life to helping the broken, guided by the philosophy:  
+  > “Who am I to judge the broken when God gave me another chance?”  
+
+---
+
+## Personality
+
+- **Traits:** Stern but compassionate, patient, empathetic, observant, philosophical, slightly haunted by past mistakes  
+- **Demeanor:** Calm, measured, rarely shows anger; presence conveys moral authority  
+- **Philosophy:** Believes in mercy and second chances; seeks to guide the player and others toward redemption, but respects free will  
+
+---
+
+## Appearance
+
+- Worn but tidy priest robes  
+- Slightly rugged edges hint at past hardship  
+- Gentle, piercing eyes reflecting wisdom and sorrow  
+- Slow, deliberate movements  
+- Minimal accessories; demeanor reflects weight of experience  
+
+---
+
+## Narrative Role
+
+- **Rider Path (Violent/Outlaw):**  
+  - Rufus notices the player’s increasing moral deviation.  
+  - Offers optional atonement quests: helping the sick, forgiving debts, aiding the weak.  
+  - Provides warnings and subtle advice, but never forces action.  
+  - Player can ignore him; consequences appear through reputation, hallucinations, or NPC reactions.  
+
+- **Domestic Path (Peaceful/Love-Oriented):**  
+  - Serves as emotional and moral guide.  
+  - May provide blessings, minor story boosts, or insights into Bunco City’s corruption.  
+  - Reinforces choice for peace and redemption.  
+
+- **Relationship with Other Characters:**  
+  - **Player:** Moral anchor and conscience reflection; provides optional guidance without judgment.  
+  - **Archie Lillingston:** Respects influence but disagrees morally; may subtly offer alternative perspectives to the player.  
+  - **Sheriff George Storen:** Cooperative but cautious; distrustful of authority motivated solely by law, rather than ethics.  
+
+---
+
+## Dialogue Examples
+
+- Rider Path:  
+  > “Violence begets violence, my child. Are you certain this is the path you wish to follow?”  
+
+- Domestic Path:  
+  > “There is honor in caring for another. Do not underestimate the courage that requires.”  
+
+- Subtle Hint of Past:  
+  > “I once thought mercy was weakness… until I found it could save even the worst of men.”  
+
+- Neutral/Philosophical:  
+  > “God spared me once. Perhaps your choices today may spare another tomorrow.”  
+
+---
+
+## Quests and Mechanics
+
+- **Rider Path Optional Quests:**  
+  - **Atonement Opportunities:** Tasks like helping townsfolk, forgiving debts, or aiding victims of violence.  
+  - Warnings and moral reflection moments that affect reputation or subtle narrative outcomes.  
+
+- **Domestic Path Optional Quests:**  
+  - Tasks that reinforce community and relationships, such as assisting in the church, counseling NPCs, or managing local charity events.  
+  - Minor story or stat boosts, no violence encouraged.  
+
+- **Easter Egg – Silent Prayer:**  
+  - Triggered after major heist or high-profile crime near the end of the game (Rider path).  
+  - Church appears **locked**.  
+  - If player listens closely: **very subtle, nearly imperceptible prayer and quiet sobbing** from Rufus.  
+  - No subtitles or prompts. Only the most attentive players perceive it.  
+  - Optional achievement: `"The Silent Prayer"` for observing it.  
+  - Narrative impact: reinforces moral weight of Rider path; emotional resonance without breaking immersion.  
+
+---
+
+## Thematic Function
+
+- **Conscience Anchor:** Keeps player aware of moral stakes.  
+- **Psychological Pressure:** Serves as internal antagonist alongside the player’s choices.  
+- **Foil to Archie:** Archie adapts to utility, Rufus reflects moral consequence.  
+- **Replayability:** Rider vs Domestic paths show different facets of Rufus’ guidance and the player’s moral arc.  
+
+---
+
+## Notes
+
+- Rufus never enforces morality; respects free will.  
+- Past criminal history shapes empathy and philosophy.  
+- Player perception may evolve: hero, mentor, or tragic figure depending on path and observation.  
+- Subtle audio cues and environmental storytelling are key to fully conveying emotional depth.  
+
+
