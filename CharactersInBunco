@@ -1,0 +1,84 @@
+# Archie Lillingston - Character File
+# Lonesome Trail (Working Title)
+# Created: February 17, 2026
+# Author: Dale Salvador
+
+character:
+  name: Archie Lillingston
+  aliases:
+    - Archibald Lillingston
+    - "The Quiet Broker"
+  role: Central Quest Giver / Merchant / Arms Dealer
+  occupation:
+    - Bartender (primary public role)
+    - Arms Dealer (secondary hidden role)
+  family:
+    status: Wealthy, influential in Bunco City alcohol industry
+    history: Family controls supply and distribution across Bunco and nearby towns; lineage emphasizes power and control.
+  personality:
+    traits:
+      - Calm
+      - Rarely reactive
+      - Patient
+      - Calculating
+      - Observant
+      - Adaptive
+    demeanor: Speaks in neutral, business-like tones; avoids emotional displays; evaluates people and situations for utility.
+    philosophy: Control is everything; whether through peace or violence, Archie ensures he maintains influence.
+  narrative_role:
+    overview: |
+      Central figure in Bunco City. All major quests pass through him. He adapts his offers to the player's moral path:
+        - Rider (violent) path: Offers secondary “arms dealing” shop, violent expansion quests.
+        - Domestic (peaceful) path: Provides bar job, safer quests, no access to weapons or expansion.
+      Archie manipulates indirectly. He is never an overt antagonist but a constant facilitator of the player's ambitions.
+    influence:
+      - Player autonomy: He adapts to choices but ensures the player remains within his system.
+      - World-building: His family wealth and control shape Bunco City’s economy and social structure.
+      - Moral tension: He embodies the consequences of power without judgment; his calm neutrality emphasizes the player’s internal conflict.
+  quest_mechanics:
+    rider_path:
+      - Name: "Expansion Contract"
+        Description: Player is tasked with eliminating obstacles to establish a new bar in a rival town.
+        Reward: Access to weapons, resources, and the "Second Shop."
+        Conditions: Player actively pursues violence and outlaw status.
+    domestic_path:
+      - Name: "Bar Assistant"
+        Description: Player helps in the bar, manages supplies, and builds local relationships.
+        Reward: Safe income, minor story influence, no access to weapons.
+        Conditions: Player chooses domestic/love-oriented path.
+    second_shop:
+      Description: Unlockable only on Rider path; arms dealer network activated. Player can purchase weapons, explosives, and specialized gear.
+      Location: Hidden area behind the bar.
+      Tone: Cold, business-like. No morality discussed. Archie evaluates usefulness only.
+  appearance:
+    description: |
+      Well-dressed but unassuming. Always composed, rarely showing emotion. Bar is tidy, almost immaculate, reflecting his personality.
+    typical_clothing:
+      - Waistcoat
+      - Shirt with rolled sleeves
+      - Sturdy boots
+      - Minimal accessories
+  relationships:
+    player:
+      - Type: Manipulative facilitator
+      - Notes: Adapts offers and quests to align with player choices; always maintains calm neutrality.
+    girl_character:
+      - Type: Observant
+      - Notes: Senses his control instinctively; cautious of his influence.
+    Father Rufus Mutz:
+      - Type: Indirect ally/contrast
+      - Notes: Archie interacts for influence but avoids moral conflict; respects Father Rufus’ authority when beneficial.
+    Sheriff George Storen:
+      - Type: Strategic relationship
+      - Notes: Bribes or influences when necessary; removes obstacles to expand his bar/alcohol influence.
+  dialogue_style:
+    tone: Neutral, measured, business-oriented
+    examples:
+      - "There's a man blocking opportunity. I’d appreciate it if that obstacle were removed."
+      - "Your path seems set. I can assist accordingly."
+      - "Whether you choose peace or chaos, Bunco has room for you. Just know I always see the bigger picture."
+  notes:
+    - Archie never overtly judges morality; he reacts only to usefulness.
+    - Player perception of him changes based on choices, but his behavior remains constant.
+    - Optional lore hints can be included in the bar’s decor and ledgers, showing his long-term planning and empire-building.
+
